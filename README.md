@@ -1,4 +1,4 @@
-# Tools to manage CCRES HKD infra structure
+# Tools to manage CCRES HKD services
 
 ## grafana_update_logo.sh
 
